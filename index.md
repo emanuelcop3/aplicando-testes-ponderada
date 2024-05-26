@@ -23,4 +23,4 @@ Os testes de unidade com MSTest utilizam os atributos `DataTestMethod` e `DataRo
 1. 32°F para 0°C
 2. 212°F para 100°C
 ### Execução de todos os Testes
-![Testes MSTest](../aplicando-testes-ponderada/src/asset/Testes.png)
+![Testes MSTest](../src/asset/Testes.png)
