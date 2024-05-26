@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestesUnidade", "TestesUnidade", "{DCF224D9-0A78-4F35-9B51-D15B3C90320D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesUnidade", "TestesUnidade\TestesUnidade\TestesUnidade.csproj", "{89FF007B-3106-494C-92B1-D1F66D1C2337}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestesUnidade.Tests", "TestesUnidade.Tests", "{3DF38A4C-DAB3-4CCA-AB7E-1AB8E7A7B205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesUnidade.Tests", "TestesUnidade.Tests\TestesUnidade.Tests\TestesUnidade.Tests.csproj", "{B8EB2646-6D63-4813-8123-015C8AC07CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89FF007B-3106-494C-92B1-D1F66D1C2337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FF007B-3106-494C-92B1-D1F66D1C2337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FF007B-3106-494C-92B1-D1F66D1C2337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FF007B-3106-494C-92B1-D1F66D1C2337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EB2646-6D63-4813-8123-015C8AC07CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EB2646-6D63-4813-8123-015C8AC07CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EB2646-6D63-4813-8123-015C8AC07CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EB2646-6D63-4813-8123-015C8AC07CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{89FF007B-3106-494C-92B1-D1F66D1C2337} = {DCF224D9-0A78-4F35-9B51-D15B3C90320D}
+		{B8EB2646-6D63-4813-8123-015C8AC07CBB} = {3DF38A4C-DAB3-4CCA-AB7E-1AB8E7A7B205}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\obj\Debug\net8.0\TestesUnidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\obj\Debug\net8.0\TestesUnidade.AssemblyInfoInputs.cache
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\obj\Debug\net8.0\TestesUnidade.AssemblyInfo.cs
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\obj\Debug\net8.0\TestesUnidade.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\obj\Debug\net8.0\TestesUnidade.sourcelink.json
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\bin\Debug\net8.0\TestesUnidade.deps.json
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\bin\Debug\net8.0\TestesUnidade.dll
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\bin\Debug\net8.0\TestesUnidade.pdb
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\obj\Debug\net8.0\TestesUnidade.dll
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\obj\Debug\net8.0\refint\TestesUnidade.dll
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\obj\Debug\net8.0\TestesUnidade.pdb
+C:\Users\Inteli\Documents\GitHub\aplicando-testes-ponderada\src\TestesUnidade\TestesUnidade\obj\Debug\net8.0\ref\TestesUnidade.dll
