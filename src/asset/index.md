@@ -6,7 +6,8 @@ Os testes de unidade com xUnit foram utilizados para validar o método de conver
 ### Cenários de Exemplo
 1. 32°F para 0°C
 2. 212°F para 100°C
-
+### Execução do Teste
+![Testes xUnit](../asset/Testes.png)
 
 ## Testes de Unidade com NUnit
 ### Descrição
@@ -14,7 +15,8 @@ Os testes de unidade com NUnit seguem uma abordagem similar à do xUnit, utiliza
 ### Cenários de Exemplo
 1. 32°F para 0°C
 2. 212°F para 100°C
-
+### Execução do Teste
+![Testes NUnit](../asset/NUNit.png)
 
 ## Testes de Unidade com MSTest
 ### Descrição
@@ -22,5 +24,5 @@ Os testes de unidade com MSTest utilizam os atributos `DataTestMethod` e `DataRo
 ### Cenários de Exemplo
 1. 32°F para 0°C
 2. 212°F para 100°C
-### Execução de todos os Testes
-![Testes ](../asset/Testes.png)
+### Execução do Teste
+![Testes de Unidade com MSTest](../asset/mstest.png)
